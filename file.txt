@@ -1,1 +1,2 @@
 Adam has a cat.
+delete
